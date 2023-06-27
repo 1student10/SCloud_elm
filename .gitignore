@@ -1,0 +1,16 @@
+# Project exclude paths
+/business_server_10300/target/
+/business_server_10301/target/
+/cart_server_10400/target/
+/cart_server_10401/target/
+/config_server_15000/target/
+/config_server_15001/target/
+/deliveryaddress_server_10500/target/
+/eureka_server_13000/target/
+/eureka_server_13001/target/
+/food_server_10200/target/
+/food_server_10201/target/
+/gateway_server_14000/target/
+/orders_server_10600/target/
+/orders_server_10601/target/
+/user_server_10100/target/
